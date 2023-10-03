@@ -1,0 +1,52 @@
+:root {
+  --color-title-white: #E1E1E6;
+  --color-neutral-white: #FFF;
+  --color-textbutton-hover: #02799D;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100vh;
+  margin: 29.4rem auto 29.4rem;
+}
+
+h1 {
+  color: var(--color-title-white);
+  font-size: 4.8rem;
+  font-weight: 700;
+}
+
+button {
+  background-color: transparent;
+  margin-top: 2.4rem;
+  border-radius: .5rem;
+  border: .2rem solid var(--color-neutral-white);
+  text-transform: uppercase;
+  color: var(--color-neutral-white);
+}
+
+button:hover {
+  background-color: var(--color-neutral-white);
+}
+
+button a {
+  font-size: 1.4rem;
+  font-weight: 700;
+  line-height: 2.4rem;
+  color: inherit;
+}
+
+button a:hover {
+  color: var(--color-textbutton-hover);
+}
+
+.mybutton {
+  display: inline-block;
+}
+
+.mybutton a {
+  display: block;
+  padding: 1.2rem 3.2rem;
+}
