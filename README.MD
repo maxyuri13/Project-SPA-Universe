@@ -1,5 +1,5 @@
 <h1 align="center"> 
-    ⏳ Focus Timer
+    🌌 SPA Universe
 </h1>
 <p align="center">
  O projeto SPA Universo é uma experiência inovadora de bem-estar que transporta os participantes para uma jornada única de exploração cósmica, com foco na mente, corpo e alma. Em um ambiente tranquilo e harmonioso, os participantes são convidados a se desconectar do estresse da vida cotidiana e embarcar em uma jornada de descoberta do vasto universo que nos rodeia.
